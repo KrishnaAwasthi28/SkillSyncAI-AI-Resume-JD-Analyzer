@@ -1,0 +1,68 @@
+.result-box{
+  margin-top:30px;
+}
+
+.score-card{
+  background:white;
+  padding:30px;
+  border-radius:14px;
+  text-align:center;
+  box-shadow:0 6px 20px rgba(0,0,0,0.08);
+  margin-bottom:25px;
+}
+
+.score-circle{
+  width:120px;
+  margin:auto;
+}
+
+.status{
+  margin-top:15px;
+  font-weight:600;
+}
+
+.result-section{
+  padding:25px;
+  border-radius:12px;
+  margin-bottom:20px;
+  background:white;
+  box-shadow:0 4px 15px rgba(0,0,0,0.05);
+}
+
+.result-section ul{
+  padding-left:20px;
+}
+
+.result-section li{
+  margin-bottom:8px;
+}
+
+/* strengths */
+
+.strengths{
+  border-left:6px solid #22c55e;
+}
+
+.strengths h4{
+  color:#16a34a;
+}
+
+/* gaps */
+
+.gaps{
+  border-left:6px solid #ef4444;
+}
+
+.gaps h4{
+  color:#dc2626;
+}
+
+/* recommendations */
+
+.recommendations{
+  border-left:6px solid #3b82f6;
+}
+
+.recommendations h4{
+  color:#2563eb;
+}

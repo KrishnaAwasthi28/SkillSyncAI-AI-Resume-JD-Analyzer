@@ -1,0 +1,18 @@
+.about-container{
+  max-width:900px;
+  margin:auto;
+  padding:40px;
+}
+
+.about-container h1{
+  margin-bottom:20px;
+}
+
+.about-container p{
+  margin-bottom:15px;
+  line-height:1.6;
+}
+
+.about-container ul{
+  padding-left:20px;
+}

@@ -1,0 +1,18 @@
+.contact-container{
+  max-width:700px;
+  margin:auto;
+  padding:40px;
+  text-align:center;
+}
+
+.contact-card{
+  margin-top:20px;
+  padding:30px;
+  background:white;
+  border-radius:10px;
+  box-shadow:0 4px 15px rgba(0,0,0,0.08);
+}
+
+.contact-card p{
+  margin-bottom:10px;
+}
